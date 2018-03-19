@@ -9,6 +9,7 @@ body{
   text-align:left;
   background-color:#fff;
 }
+
 /*COMMON USED*/
 .full-width{width:100%;}
 .half-width{width:50%;}
@@ -36,7 +37,6 @@ body{
 .font-white{color:#fbfbfb;}
 
 /*RED BOX*/
-<<<<<<< HEAD
 .redbox{border:solid 1pt red;}
 
 /*CONTAINER*/
@@ -63,15 +63,6 @@ body{
   margin-right:auto;
   margin-left:auto;
 }
-=======
-.redbox{border: solid 1pt red;}
-
-/*CONTAINER*/
-.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto;}
-@media(min-width: 768px){.container{width:750px;}}
-@media(min-width:992px){.container{width:970px;}}
-@media(min-width:1200px){.container{width:1170px;}}
->>>>>>> 5473cf5c980440ff0e8259c2d093e9c127074f8e
 
 /*FLEX*/
 .flex{display:flex;}
